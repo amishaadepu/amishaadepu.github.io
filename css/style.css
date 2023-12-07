@@ -91,7 +91,7 @@ font-family: 'Lora', serif;
     top:1px;
 }
 .project {
-  box-shadow: 0 0px 1px 0 rgba(0 0 0 / 40%);
+box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);  
   width: 100%;
 }
 
@@ -103,7 +103,7 @@ font-family: 'Lora', serif;
   letter-spacing: 0.1px;
   text-align: left;
   color: #4a4a4a;
-  padding: 0px 20px 20px 20px;
+padding: 0 20px 20px 20px;  
 }
 
 .container {
