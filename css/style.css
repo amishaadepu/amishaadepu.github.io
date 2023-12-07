@@ -9,7 +9,7 @@ body {
 }
 
 header, footer {
-  background-color: #ffa500;
+  background-color: #480ca8;
   text-align: left;
   /*-width: 500px;*/
 }
@@ -44,7 +44,7 @@ font-family: 'Quattrocento', serif;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #480ca8;
   padding: 10px 0px 10px 10px;
 }
 
@@ -157,6 +157,9 @@ footer {
   .description {
     font-size: 18px;
   }
+  a {
+  color: #480ca8;
+}
 }
 
 
