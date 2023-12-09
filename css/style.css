@@ -45,7 +45,7 @@ font-family: 'Quattrocento', serif;
   letter-spacing: 0.3px;
   text-align: left;
   color: #480ca8;
-  padding: 10px 0px 10px 10px;
+  padding: 10px 0px 10px 20px;  
 }
 
 img {
@@ -83,7 +83,7 @@ font-family: 'Lora', serif;
 }
 
 .myButton:hover {
-    background-color:#e69708;
+background-color: rgba(255, 255, 255, .2);
 }
 
 .myButton:active {
